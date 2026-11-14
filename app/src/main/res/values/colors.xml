@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Stealth Black & Gold Luxury Theme Colors -->
+    <color name="bg_screen">#080808</color>
+    <color name="bg_card">#121212</color>
+    <color name="card_border">#D4AF37</color>
+
+    <color name="bg_pill">#1A1608</color>
+    <color name="pill_border">#E5C158</color>
+    <color name="text_pill">#F5D061</color>
+
+    <color name="bg_input">#1A1A1A</color>
+    <color name="input_border">#332E1B</color>
+
+    <color name="bg_sub_card">#16140E</color>
+    <color name="sub_card_border">#D4AF37</color>
+
+    <color name="text_title">#F5D061</color>
+    <color name="text_subtitle">#B3B3B3</color>
+    <color name="text_label">#E5C158</color>
+    <color name="text_input">#FFFFFF</color>
+    <color name="text_hint">#666666</color>
+    <color name="text_latest">#B3B3B3</color>
+    <color name="text_total">#F5D061</color>
+    <color name="divider_color">#2A261A</color>
+
+    <!-- Buttons -->
+    <color name="btn_secondary_bg">#1A1212</color>
+    <color name="btn_secondary_border">#E63946</color>
+    <color name="btn_secondary_text">#FF4D6D</color>
+    <color name="btn_primary_text">#080808</color>
+</resources>
