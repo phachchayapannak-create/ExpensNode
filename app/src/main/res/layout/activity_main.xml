@@ -74,8 +74,9 @@
             android:textStyle="bold" />
 
         <!-- Amount Input -->
+
         <EditText
-            android:id="@+id/etAmount"
+            android:id="@+id/etPrice"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
